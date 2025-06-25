@@ -47,7 +47,7 @@ const gifs = {
 
     feu: "https://media.tenor.com/97Gs8bCX7ioAAAAj/fireball-fire.gif",
     eau: "https://media.tenor.com/PGYpEvpXLkcAAAAj/water-splash-moana-2.gif",
-    terre: "https://media1.tenor.com/m/f-7RWadEmTUAAAAd/alphonse-elric.gif",
+    terre: "https://media1.tenor.com/m/-Rb0DeCZzXgAAAAC/thorns-vines.gif",
     metal: "https://media1.tenor.com/m/f-7RWadEmTUAAAAd/alphonse-elric.gif",
     esprit: "https://media1.tenor.com/m/wYED_j6aHZMAAAAC/freakingout-pokemon.gif"
 
